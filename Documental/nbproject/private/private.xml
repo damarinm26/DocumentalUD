@@ -3,9 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/DiegoM/Documents/NetBeansProjects/Documental/src/java/com/documental/servicios/impl/ServicioTareaImpl.java</file>
-            <file>file:/C:/Users/DiegoM/Documents/NetBeansProjects/Documental/src/java/com/documental/dao/jpa/GenericDAOJPAImpl.java</file>
-            <file>file:/C:/Users/DiegoM/Documents/NetBeansProjects/Documental/src/java/com/documental/beans/TipoUsuarioTareaController.java</file>
+            <file>file:/C:/Users/DiegoM/Documents/NetBeansProjects/DocumentalUD/Documental/web/GUI/Administrador/TipoUsuarioTarea/GUITipoUsuarioTareaCrear.xhtml</file>
         </group>
     </open-files>
 </project-private>
